@@ -2,7 +2,7 @@
 
 This repository contains a portfolio of my experiences in completing Revou Mini Course - Data Analytics
 
-##Curriculum
+## Curriculum
 1. Introduction to Data Analytics
 2. Data Analytics in Business
 3. Practical Simulation: Basic SQL
